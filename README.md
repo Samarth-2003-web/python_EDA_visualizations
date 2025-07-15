@@ -1,28 +1,43 @@
 # python_EDA_visualizations
 
-This project performs an Exploratory Data Analysis (EDA) on a product funding dataset. The goal is to understand the distribution, trends, and insights from funding data using Python libraries such as Pandas, Matplotlib, and Seaborn.
+This project performs an Exploratory Data Analysis (EDA) on the US_Lighting_Forest dataset. The goal is to uncover patterns, trends, and insights about lighting installations, forest characteristics, or environmental data — depending on the dataset's actual contents — using Python libraries such as Pandas, Matplotlib, and Seaborn.
 
-## Key Features:
+## Key Features
 Data Cleaning & Preprocessing
 
-Handling missing values
+Handled missing or inconsistent values
 
-Visualizations (Bar plots, Histograms, Box plots, etc.)
+Parsed and formatted date, category, or location data as needed
 
-Analysis of product categories, funding amounts, investor behavior
+Exploratory Data Analysis
 
-Insights into funding trends and patterns
+Visualized key distributions (histograms, box plots, bar charts)
 
-## Tools & Libraries:
+Identified trends, correlations, and outliers
+
+Grouped data by relevant categories (e.g., lighting type, region, time)
+
+Insight Generation
+
+Analyzed relationships between environmental or installation factors
+
+Highlighted patterns useful for policymakers, researchers, or engineers
+
+## Tools & Libraries
 Python
 
 Jupyter Notebook
 
 Pandas, Matplotlib, Seaborn
 
-## File:
-P_EDA_ipynb.ipynb: Jupyter Notebook containing code, visualizations, and insights.
+## File Included
+P_EDA_ipynb.ipynb – The Jupyter Notebook containing:
 
-## Outcome:
-A clear understanding of how product funding is distributed and what factors influence it, useful for decision-makers and analysts in the startup and investment space.
+Complete data processing steps
 
+Visualization code
+
+Commentary and insights
+
+## Outcome
+This project provides a clear overview of the trends and characteristics of the US Lighting Forest dataset. The findings can help urban planners, sustainability analysts, or environmental agencies understand lighting patterns and their implications.
